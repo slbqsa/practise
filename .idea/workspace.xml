@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a78b5bbd-fa46-403a-850f-b43be6aa2cb6" name="Default Changelist" comment="一些算法题的练习">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practise/META-INF/practise.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/AscentSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/CensoredNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/FullPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/LittleQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/NQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/TestCodeSeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/ZhiPai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/MINA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Nqueen1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZhengChu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddOil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/AddOil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AscentSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CensoredNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DigitalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/DigitalTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FullPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntegerDivide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/IntegerDivide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LittleQ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MsegmentSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/MsegmentSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NQueen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NaturalMerger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/NaturalMerger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestCodeSeg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZhiPai.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/priorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Thread/MyRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
@@ -91,6 +52,18 @@
                 <element signature="e#98#99#0" expanded="true" />
                 <element signature="e#140#141#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="20" selection-start-column="20" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -174,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/Thread/Test.java" />
         <option value="$PROJECT_DIR$/src/Thread/MyRunnable.java" />
         <option value="$PROJECT_DIR$/src/Thread/Run.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -357,7 +331,7 @@
       <workItem from="1563884166744" duration="382000" />
       <workItem from="1563936689798" duration="2028000" />
       <workItem from="1563948572721" duration="5566000" />
-      <workItem from="1564123301835" duration="773000" />
+      <workItem from="1564123301835" duration="1182000" />
     </task>
     <task id="LOCAL-00001" summary="一些算法题的练习">
       <created>1563715962047</created>
@@ -370,21 +344,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161325000" />
+    <option name="totallyTimeSpent" value="161734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1366" height="770" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22290076" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22290076" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.29812607" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.29812607" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -613,6 +588,16 @@
             <element signature="e#98#99#0" expanded="true" />
             <element signature="e#140#141#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="20" selection-start-column="20" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
