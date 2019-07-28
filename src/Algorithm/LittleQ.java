@@ -1,3 +1,6 @@
+/**
+ * 贪吃的小Q
+ */
 package Algorithm;
 
 import java.util.Scanner;

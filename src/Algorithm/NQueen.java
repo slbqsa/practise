@@ -1,3 +1,6 @@
+/**
+ * 排列树解N后问题
+ */
 package Algorithm;
 
 import java.util.Arrays;

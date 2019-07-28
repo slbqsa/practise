@@ -7,7 +7,7 @@ public class ZhengChu {
         int n = 100000+5;
         int[] figure = new int[n];
         int sum = sc.nextInt();
-        for(int i=0;i<sum;i++){
+        for(int i=1;i<=sum;i++){
             int k = i;
             for(int j = 2;j*j<=n;j++){
                 int s =0;

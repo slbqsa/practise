@@ -1,3 +1,6 @@
+/**
+ * 数字三角形问题
+ */
 package Algorithm;
 
 import java.io.FileInputStream;

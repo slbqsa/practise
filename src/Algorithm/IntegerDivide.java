@@ -1,3 +1,6 @@
+/**
+ * 整数分解问题
+ */
 package Algorithm;
 
 import java.util.*;

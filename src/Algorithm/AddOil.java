@@ -1,3 +1,6 @@
+/**
+ * 汽车加油行驶问题
+ */
 package Algorithm;
 
 import java.util.Scanner;
