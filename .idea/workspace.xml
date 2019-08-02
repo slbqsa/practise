@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a78b5bbd-fa46-403a-850f-b43be6aa2cb6" name="Default Changelist" comment="一些算法题的练习">
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/Five_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/Four_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/Second_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/Six_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/Three_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/TestReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiSanzhou/Third_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiSanzhou/Third_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiSanzhou/Third_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiSanzhou/Third_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiSanzhou/Third_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiSanzhou/Third_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practise/Algorithm/AddOil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practise/Algorithm/AddOil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practise/Algorithm/DigitalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practise/Algorithm/DigitalTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practise/Algorithm/FullPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practise/Algorithm/FullPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practise/Algorithm/IntegerDivide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practise/Algorithm/IntegerDivide.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practise/Algorithm/LittleQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practise/Algorithm/LittleQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practise/Algorithm/NQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practise/Algorithm/NQueen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practise/Algorithm/ZhiPai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practise/Algorithm/ZhiPai.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practise/ZhengChu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practise/ZhengChu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/AddOil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/AddOil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/DigitalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/DigitalTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/FullPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/FullPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/IntegerDivide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/IntegerDivide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/LittleQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/LittleQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/NQueen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/NQueen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/ZhiPai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/ZhiPai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZhengChu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZhengChu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practise/Other/Nqueen1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practise/Other/Nqueen1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/Nqueen1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Nqueen1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,12 +25,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/ZhiPai.java">
+        <entry file="file://$PROJECT_DIR$/src/sec1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="29">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Other/MINA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-547">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -52,93 +46,81 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/NaturalMerger.java">
+        <entry file="file://$PROJECT_DIR$/src/Other/Nqueen1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-732">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/DigitalTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZhengChu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Second_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Four_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Other/TestReverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Five_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="25" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Three_2.java">
+        <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="37" />
+            <state relative-caret-position="-931">
+              <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#872#873#0" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/Six_2.java">
+        <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/Arrays.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-319">
-              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="-79868">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2089#2090#0" expanded="true" />
+                <element signature="e#2167#2168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -167,10 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/1.html" />
-        <option value="$PROJECT_DIR$/src/MsegmentSum.java" />
-        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/TestCodeSeg.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/CensoredNumber.java" />
         <option value="$PROJECT_DIR$/src/lengthOfLIS.java" />
@@ -218,10 +196,14 @@
         <option value="$PROJECT_DIR$/src/Algorithm/Second_2.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/Five_2.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/Three_2.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/sober.java" />
+        <option value="$PROJECT_DIR$/src/sec1.java" />
+        <option value="$PROJECT_DIR$/src/Other/Nqueen1.java" />
+        <option value="$PROJECT_DIR$/src/DiSanzhou/Third_3.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="-2" />
     <option name="width" value="1366" />
     <option name="height" value="770" />
@@ -233,7 +215,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,17 +233,30 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DiSanzhou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Other" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564282135303" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564729700614" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
@@ -284,52 +278,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Three_2">
-    <configuration name="Five_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Five_2" />
+  <component name="RunManager" selected="Application.Third_3">
+    <configuration name="Nqueen1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nqueen1" />
       <module name="practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Four_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Four_2" />
+    <configuration name="Third_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiSanzhou.Third_3" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Second_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Second_2" />
-      <module name="practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Six_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Six_2" />
-      <module name="practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithm.*" />
+          <option name="PATTERN" value="DiSanzhou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,20 +312,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sec1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec1" />
+      <module name="practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sober" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.sober" />
+      <module name="practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Four_2" />
       <item itemvalue="Application.Three_2" />
-      <item itemvalue="Application.Second_2" />
-      <item itemvalue="Application.Five_2" />
-      <item itemvalue="Application.Six_2" />
+      <item itemvalue="Application.sec1" />
+      <item itemvalue="Application.sober" />
+      <item itemvalue="Application.Nqueen1" />
+      <item itemvalue="Application.Third_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Third_3" />
+        <item itemvalue="Application.Nqueen1" />
+        <item itemvalue="Application.sec1" />
+        <item itemvalue="Application.sober" />
         <item itemvalue="Application.Three_2" />
-        <item itemvalue="Application.Six_2" />
-        <item itemvalue="Application.Five_2" />
-        <item itemvalue="Application.Four_2" />
-        <item itemvalue="Application.Second_2" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +415,13 @@
       <workItem from="1563948572721" duration="5566000" />
       <workItem from="1564123301835" duration="1796000" />
       <workItem from="1564130483029" duration="3562000" />
-      <workItem from="1564279388793" duration="2743000" />
+      <workItem from="1564279388793" duration="3407000" />
+      <workItem from="1564291249278" duration="1493000" />
+      <workItem from="1564317903760" duration="504000" />
+      <workItem from="1564365125508" duration="2451000" />
+      <workItem from="1564406110779" duration="1986000" />
+      <workItem from="1564494339669" duration="932000" />
+      <workItem from="1564714828328" duration="6746000" />
     </task>
     <task id="LOCAL-00001" summary="一些算法题的练习">
       <created>1563715962047</created>
@@ -446,10 +434,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168653000" />
+    <option name="totallyTimeSpent" value="183429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1366" height="770" extended-state="6" />
+    <frame x="1433" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -457,16 +445,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21221374" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.17480916" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.29812607" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.46507666" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.112436116" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.06473595" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3475298" />
@@ -489,16 +477,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13129771" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17480916" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.29812607" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.46507666" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.18057922" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.06473595" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3475298" />
@@ -524,13 +512,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="一些算法题的练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/jiemian.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java" />
-    <entry file="file://$PROJECT_DIR$/src/lengthOfLIS.java" />
-    <entry file="file://$PROJECT_DIR$/src/PriorityQueue.java" />
-    <entry file="file://$PROJECT_DIR$/src/RandomAccessQueue.java" />
-    <entry file="file://$PROJECT_DIR$/src/元旦快乐.html" />
-    <entry file="file://$PROJECT_DIR$/src/心理调查问卷.html" />
     <entry file="file://$PROJECT_DIR$/src/jiemian.jpg" />
     <entry file="file://$PROJECT_DIR$/src/wallpaper.css" />
     <entry file="file://$PROJECT_DIR$/src/jiemian.html" />
@@ -553,23 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithm/MsegmentSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -584,27 +548,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/MINA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/Nqueen1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -705,33 +652,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/NaturalMerger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/TestReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/DigitalTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/First_2.java" />
     <entry file="file://$PROJECT_DIR$/src/Algorithm/ZhiPai.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="145">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -740,16 +664,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/First_2.java">
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/NaturalMerger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="116">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/sober.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/DigitalTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZhengChu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="899">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
@@ -763,18 +698,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithm/Four_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="145">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithm/Six_2.java">
+    <entry file="file://$PROJECT_DIR$/src/Other/TestReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-319">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="319">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -787,12 +722,129 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithm/Three_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="37" />
+        <state relative-caret-position="435">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#872#873#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Six_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/MINA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiSanZhou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/Nqueen1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-732">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_３.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sec1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/Arrays.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79868">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2089#2090#0" expanded="true" />
+            <element signature="e#2167#2168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiSanzhou/Third_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-931">
+          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

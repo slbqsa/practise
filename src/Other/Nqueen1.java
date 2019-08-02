@@ -1,58 +1,50 @@
 package Other;
 
-import Algorithm.NQueen;
+import java.util.Scanner;
 
-public class Nqueen1 {
+public class Nqueen1{
 
-    int max = 8;
-    int array[] = new int[max];
-    int[] a = {8, 2, 3, 4, 5, 6, 7, 1};
+    public static long process(long[] arr) {
+        long neg1 = 0;
+        long neg2 = 0;
+        long pos1 = 0;
+        long pos2 = 0;
+        long pos3 = 0;
 
-    public void backtrack(int n) {
-        if (n == max) {
-            print();
-            return;
-        } else {
-            for (int i = n; i < max; i++) {
-                array[n] = a[i];
-                swap(a, n, i);
-                if (nice(n)) {
-                    backtrack(n + 1);
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] < 0) {
+                if (arr[i] < neg1) {
+                    neg2 = neg1;
+                    neg1 = arr[i];
+                } else if (arr[i] < neg2) {
+                    neg2 = arr[i];
                 }
-                swap(a, n, i);
+            } else {
+                if (arr[i] > pos3) {
+                    pos1 = pos2;
+                    pos2 = pos3;
+                    pos3 = arr[i];
+                } else if (arr[i] > pos2) {
+                    pos1 = pos2;
+                    pos2 = arr[i];
+                } else if (arr[i] > pos1) {
+                    pos1 = arr[i];
+                }
             }
         }
 
-    }
-
-    public boolean nice(int n) {
-        for (int i = 0; i < n; i++) {
-            if (Math.abs(n - i) == Math.abs(array[n] - array[i])) {
-                return false;
-            }
-        }
-        return true;
-    }
-
-    public void swap(int[] a, int i, int j) {
-        int tem = a[i];
-        a[i] = a[j];
-        a[j] = tem;
-    }
-
-    int k = 0;
-
-    public void print() {
-        ++k;
-        System.out.print("第" + k + "种解法:");
-        for (int i = 0; i < array.length; i++) {
-            System.out.print(array[i] + " ");
-        }
-        System.out.println();
+        long res1 = neg1 * neg2 * pos3;
+        long res2 = pos1 * pos2 * pos3;
+        return res1 > res2 ? res1 : res2;
     }
 
     public static void main(String[] args) {
-
-        new NQueen().backtrack(0);
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        long[] arr = new long[n];
+        for (int i = 0; i < n; i++) {
+            arr[i] = sc.nextLong();
+        }
+        System.out.println(process(arr));
     }
 }
