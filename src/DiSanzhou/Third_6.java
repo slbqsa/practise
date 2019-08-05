@@ -3,57 +3,6 @@ import java.util.*;
 
 public class Third_6 {
 
-      public static class Bear {
-             int zhandouli;
-             int jiezhi;
-          }
-          public Bear(int zhandouli,int jiezhi){
-          this.zhandouli  = zhandouli;
-          this.jiezhi = jiezhi;
-      }
-}
-    public static class descComparator implements Comparable<Third_6.Bear>, Comparator<T> {
-        public int compare(Third_6.Bear b1, Third_6.Bear b2) {
-            return b1.zhandouli != b2.zhandouli ? b2.zhandouli - b1.zhandouli : b1.jiezhi - b2.jiezhi;
-        }
-    }
-
-
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int m = sc.nextInt();
-        Third_6.Bear[] bears = new Third_6.Bear[n];
-        int [] sweet = new int [m];
-        for(int i = 0;i<m;i++){
-            sweet[i] = sc.nextInt();
-        }
-        HashMap<Integer, Third_6.Bear> map  = new HashMap<>();
-        for (int i = 0;i<n;i++){
-            int zhanduoli = sc.nextInt();
-            int jiezhi = sc.nextInt();
-            bears[i] = new Third_6.Bear(zhanduoli,jiezhi);
-            map.put(i,bears[i]);
-        }
-        Arrays.sort(bears,new descComparator());
-        Arrays.sort(sweet);
-
-        for (int i = 0;i<n;i++)
-        {
-            for(int j = m;j>=0;j--){
-                if(sweet[j] != -1 && bears[i].jiezhi-sweet[j]>=0){
-                    bears[i].jiezhi -= sweet[j];
-                    sweet[j] = -1;
-                }
-            }
-        }
-        for (int i = 0;i<n;i++){
-            System.out.println(map.get(i).jiezhi);
-        }
-
-    }
-}
-     /**
 
 
     public static class Bear {
@@ -112,4 +61,3 @@ public class Third_6 {
     }
 
 }
-**/
